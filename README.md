@@ -18,3 +18,6 @@ This Power BI project is focused on analyzing customer churn for AT&T. It involv
 
 ![wget](https://github.com/pratikphirke07/ATnT-Churn-Analysis/blob/main/AT%26T%20Dashboard.png)
 
+
+## Data Model
+![wget](https://github.com/pratikphirke07/ATnT-Churn-Analysis/blob/main/Data%20Model.png)
