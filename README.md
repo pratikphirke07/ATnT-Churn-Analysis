@@ -12,3 +12,9 @@ This Power BI project is focused on analyzing customer churn for AT&T. It involv
 * ***Improved Customer Experience:*** Churn analysis often reveals areas where customers are dissatisfied. Addressing these areas can lead to improved customer satisfaction and loyalty, which in turn reduces churn.
 * ***Targeted Marketing:*** With insights from churn analysis, businesses can create targeted marketing campaigns aimed at at-risk customers, offering them incentives or personalized experiences to retain them.
 * ***Competitive Advantage:*** Reducing churn gives businesses a competitive edge by ensuring that they maintain a loyal customer base while potentially attracting customers from competitors who are less effective at retention.
+
+
+## AT&T Dashboard
+
+![wget](https://github.com/pratikphirke07/HealthCareProvider/blob/main/Healthcare_analysis_dashboard.png)
+
