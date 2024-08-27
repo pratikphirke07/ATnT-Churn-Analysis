@@ -7,3 +7,8 @@ This Power BI project is focused on analyzing customer churn for AT&T. It involv
 
 ## Why is Churn Analysis Important?
 * ***Customer Retention:*** Retaining existing customers is often more cost-effective than acquiring new ones. Churn analysis helps businesses understand why customers leave, allowing them to address issues and improve retention rates.
+* ***Revenue Impact:*** High churn rates can significantly impact a company’s revenue. By identifying and mitigating the causes of churn, businesses can stabilize and potentially increase their revenue streams.
+* ***Customer Lifetime Value (CLTV):*** Understanding churn helps in calculating the customer lifetime value more accurately. It enables companies to focus on strategies that maximize the value of each customer over time.
+* ***Improved Customer Experience:*** Churn analysis often reveals areas where customers are dissatisfied. Addressing these areas can lead to improved customer satisfaction and loyalty, which in turn reduces churn.
+* ***Targeted Marketing:*** With insights from churn analysis, businesses can create targeted marketing campaigns aimed at at-risk customers, offering them incentives or personalized experiences to retain them.
+* ***Competitive Advantage:*** Reducing churn gives businesses a competitive edge by ensuring that they maintain a loyal customer base while potentially attracting customers from competitors who are less effective at retention.
