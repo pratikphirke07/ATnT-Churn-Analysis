@@ -24,8 +24,6 @@ This Power BI project is focused on analyzing customer churn for AT&T. It involv
 
 ## Video
 
-https://github.com/user-attachments/assets/9f2e1ecc-2f17-439f-99da-9a27a10e2a0b
-
-
+https://github.com/user-attachments/assets/79bedcdf-169d-4604-a0e3-3f39725ba3f1
 
 
